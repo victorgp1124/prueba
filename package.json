@@ -6,7 +6,7 @@
   "name": "curso-webpack-react",
   "description": "",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "devDependencies": {
     "@babel/core": "^7.16.5",
     "@babel/preset-env": "^7.16.5",
